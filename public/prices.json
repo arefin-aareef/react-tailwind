@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Access to gym equipment during regular hours",
+        "Locker room access",
+        "Fitness classes at additional cost"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "24/7 gym access",
+        "Locker room access",
+        "Unlimited fitness classes",
+        "Personal training sessions at additional cost"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 99.99,
+      "features": [
+        "24/7 gym access",
+        "Private locker room and shower access",
+        "Unlimited fitness classes",
+        "Unlimited personal training sessions",
+        "Free guest passes"
+      ]
+    }
+  ]
+  
